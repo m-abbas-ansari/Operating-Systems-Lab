@@ -22,7 +22,7 @@ The programs were made using C and were compilable using gcc 9.4.0 on a posix ba
 15. [FCFS, SSTF and SCAN Disk Scheduling](fcfs_sstf_scan.c)
  
 
-Many of the programs were made by takind care of edge-cases which are usually ignored by simple OS codes taught in online/offline courses. If you find a bug or an edge case not considered, please feel free to point it out or make a PR.
+Many of the programs were made by taking care of edge-cases which are usually ignored by simple OS codes taught in online/offline courses. If you find a bug or an edge case not considered, please feel free to point it out or make a PR.
 
 
 
