@@ -1,10 +1,10 @@
-### Operating Systems Lab Programs
+## Operating Systems Lab Programs
 
 This repository contains all of the programs made by me in OS Lab (CEN-493) B.Tech Computer Engineering 4th Sem (2022) at JMI. 
 
 The programs were made using C and were compilable using gcc 9.4.0 on a posix based system. Most of the data structures that are used have been implemented from scratch.
 
-List of programs:
+#### List of programs:
 1. [Priority Queue Scheduling using Linked Lists](priority_queue_ll.c)
 2. [First Come First Serve Scheduling (FCFS)](fcfs.c)
 3. [Shortest Job First Scheduling (SJF)](sjf.c)
